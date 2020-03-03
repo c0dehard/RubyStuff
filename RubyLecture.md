@@ -4,6 +4,8 @@ ___
 
 #### Vorwort:
 
+VORABVERSION: Nicht Fertig diese .md
+
 <i>Dieses MarkDown entstand auf der Suche nach einer neuen Herausvorderung um mein Spektrum um eine Programmiersprache zu erweitern. Alle Texte welche sich hier finden ergaben sich aus eigenen Gedanken, angereizt durch Verschiedene Medien welche ich zum lernen benutzt habe. Es ist nichts abgeschrieben ich nutze eigene Worte aus dem geschöpften Wissen. </i>
 
 Ruby wurde in 1995 von dem Japaner namens Yukihiro Matsumoto  um 1995 erfunden.
