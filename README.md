@@ -47,6 +47,7 @@ puts "String".class
 ```
 
 #### Kommentare
+___
 
 ```ruby
 # Einfach
@@ -78,6 +79,7 @@ print eins.to_s + " + " + zwei + " = " (eins + zwei.to_i).to_s
 
 
 #### Beispiele für Benutzereingaben
+___
 
 ```ruby
 zahl = gets.to_i
@@ -116,10 +118,10 @@ ___
 
 **.to_hash**    für hash
 
-___
+
 
 ### Zahlen
-
+___
 **Konstanten** schreibt man groß, sie können dennoch verändert werden, gibt allerdings eine **Warnung** dass sie überschrieben wurde zurück.
 
 ```ruby
@@ -133,9 +135,10 @@ put einFloat - zweiFloat
 #Output 1.0 - 0.99 = 0.010000000000000009
 ```
 
-___
+
 
 ### Strings
+___
 
 ```ruby
 =begin
@@ -166,9 +169,10 @@ beispielZwei = 'Wie soll\'es denn "gehen"?'
 
 :Einzelne :Woerter   :OHNE Ä Ö Ü ß und Satzzeichen lassen sich :so :speichern
 
-___
+
 
 ## In Datei schreiben und lesen
+___
 
 **Schreiben**
 
@@ -186,15 +190,17 @@ dateiSchreiber.close
 
 **Lesen**
 
+
 ```ruby
 dateiLeser = File.read("dateiZumLesen.txt")
 puts "Daten von Datei: " + dateiLeser
 
 ```
 
-___
+
 
 ## Klassen
+___
 
 ```ruby
 =begin
