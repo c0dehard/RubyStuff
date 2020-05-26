@@ -1,4 +1,3 @@
-# RubyStuff
 # <span style="color:#9B111E">Ruby</span>
 by c0deN
 ___
