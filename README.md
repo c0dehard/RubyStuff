@@ -4,18 +4,19 @@ ___
 
 #### Vorwort:
 
-VORABVERSION: Nicht Fertig diese .md
+VORABVERSION: Diese Version der README.md ist nicht fertig.
 
 <i>Dieses MarkDown entstand auf der Suche nach einer neuen Herausvorderung um mein Spektrum um eine Programmiersprache zu erweitern. Alle Texte welche sich hier finden ergaben sich aus eigenen Gedanken, angereizt durch Verschiedene Medien welche ich zum lernen benutzt habe. Es ist nichts abgeschrieben ich nutze eigene Worte aus dem geschöpften Wissen. </i>
 
-Ruby wurde in 1995 von dem Japaner namens Yukihiro Matsumoto  um 1995 erfunden.
-Die Idee dahinter war es etwas besseres als Perl zu entwickeln was aber komplett Objekt Orientiert ist im vergleich zu Python.
+Ruby wurde 1995 von einem Mann namens Yukihiro Matsumoto der aus Japan stammt erfunden.
+Seine Idee dahinter war es etwas besseres als Perl zu entwickeln was aber komplett Objekt Orientiert ist im vergleich zu Python.
 
 Also ganz kurz gesagt wollte er eine Programmiersprache welche die leichte Handhabung einer Scriptsprache hat aber keine ist!
 
 Lange war er auf der Suche nach so einer Sprache, also erfand er eine nach seinen Vorstellungen
 
 **(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧** die Geburtsstunde von <span style="color:#9B111E">Ruby</span>..
+___
 
 Nicht nur in Python ist alles ein Objekt,Ruby ist es ebenso.
 
