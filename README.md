@@ -16,9 +16,10 @@ Also ganz kurz gesagt wollte er eine Programmiersprache welche die leichte Handh
 Lange war er auf der Suche nach so einer Sprache, also erfand er eine nach seinen Vorstellungen
 
 **(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧** die Geburtsstunde von <span style="color:#9B111E">Ruby</span>..
-___
+
 
 Nicht nur in Python ist alles ein Objekt,Ruby ist es ebenso.
+___
 
 Im Gegensatz zu Python ist Ruby komplett Objekt Orientiert und wird fast nur für  [Backends](https://codeburst.io/web-backend-development-with-ruby-rails-part-one-ae4cf818e546) benutzt. 
 
@@ -32,9 +33,10 @@ Während man in Python auf die Webframeworks Django oder Flask schwört, macht m
 
 Obwohl der Hype um Ruby fast vorbei ist, finde ich hat diese Sprache ein paar schöne Auszüge.
 
-___
+
 
 ### OBJEKTE
+___
 
 ```ruby
 # Zum Beweis das alles ein Objekt ist:
@@ -56,10 +58,9 @@ puts "String".class
 =end
 ```
 
-___
 
 #### Ausgabe auf der Konsole:     puts     und    print
-
+___
 ```ruby
 # Also sowas wie println/WriteLine
 puts  "Schreibt einen Zeilenumbruch am Ende"
@@ -90,11 +91,12 @@ wort = gets.to_s
 
 ### <span style="color:firebrick">gets</span> für Benutzereingaben braucht NICHT zwingend ein  Casting
 
-___
+
 
 
 
 ### Methoden für expliziertes Casting
+___
 
 **.to_i**    für integer 
 
