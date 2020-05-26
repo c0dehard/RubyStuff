@@ -40,7 +40,7 @@ ___
 # Zum Beweis das alles ein Objekt ist:
 puts 1.class
 puts 1.234.class
-puta "String".class
+puts "String".class
 # Gibt zurück um welche Art von Objekt es sich handelt
 ```
 
